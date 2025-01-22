@@ -122,25 +122,25 @@ footer {
 }
 
 /* Responsif */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     header h1 {
-        font-size: 28px;
+        font-size: 20px;
     }
 
     header p {
-        font-size: 16px;
+        font-size: 10px;
     }
 
     nav ul li {
         display: block;
-        margin: 10px 0;
+        margin: 5px 0;
     }
 
     section h2 {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     section p {
-        font-size: 16px;
+        font-size: 10px;
     }
 }
