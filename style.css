@@ -21,7 +21,7 @@ header {
 }
 
 header img {
-    width: 250px;
+    width: 200px;
     margin-bottom: 10px;
 }
 
@@ -33,13 +33,13 @@ header h1 {
 }
 header h2 {
     margin: 0;
-    font-size: 36px;
+    font-size: 26px;
     font-family: 'times new roman', sans-serif;
     text-transform: uppercase;
 }
 header p {
     margin: 5px;
-    font-size: 18px;
+    font-size: 10px;
     font-style: italic;
 }
 
@@ -99,12 +99,12 @@ section h3 {
     color: rgb(247, 3, 3);
 }
 section h4 {
-    font-size: 20px;
+    font-size: 10px;
     font-weight: 500;
     color: rgb(247, 3, 3);
 }
 section p {
-    font-size: 18px;
+    font-size: 10px;
     line-height: 1.6;
 }
 
@@ -124,7 +124,7 @@ footer {
 /* Responsif */
 @media (max-width: 600px) {
     header h1 {
-        font-size: 20px;
+        font-size: 10px;
     }
 
     header p {
@@ -137,7 +137,7 @@ footer {
     }
 
     section h2 {
-        font-size: 20px;
+        font-size: 10px;
     }
 
     section p {
